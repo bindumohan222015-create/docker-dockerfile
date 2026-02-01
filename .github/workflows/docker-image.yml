@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: bindunaadya/tomcat:${{ github. https://github.com/bindumohan222015-create/docker-dockerfile }}
+          tags: bindunaadya/tomcat:${{ github.ref_name }}
